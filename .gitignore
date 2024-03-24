@@ -1,0 +1,8 @@
+
+!/LICENSE
+!/README.*.md
+!/addons/
+/addons/*
+!/addons/nklbdev.aseprite_importers/
+/.godot
+/.import
